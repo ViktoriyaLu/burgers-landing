@@ -288,7 +288,7 @@ background-image: url("../Images/order_bg.png");
     color: white;
 }
 
-.order-form-inputs.button{
+.order-form-inputs .button{
     width: 344px;
     height: 62px;
 }
